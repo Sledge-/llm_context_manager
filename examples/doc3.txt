@@ -1,0 +1,93 @@
+COMMERCIAL REAL ESTATE LOAN AGREEMENT
+THIS AGREEMENT is entered into this 30th day of September 2023.
+BETWEEN:
+RIVERBANK FINANCIALS INC., a corporation incorporated and existing under the laws of the State of Illinois, with its principal place of business located at 3030 River Road, Chicago, IL 60601 (hereinafter referred to as the "Lender").
+
+BLUE SKY DEVELOPERS LLC, a limited liability company organized and existing under the laws of the State of Colorado, with its registered office located at 4747 Sky Lane, Denver, CO 80201 (hereinafter referred to as the "Borrower").
+
+RECITALS:
+WHEREAS, the Borrower is involved in the development of commercial real estate properties and seeks to secure a loan for the redevelopment of a shopping complex located at 1010 Market Street, Denver, CO 80301;
+
+WHEREAS, the Lender is willing to grant such a loan to the Borrower on the terms and conditions set forth herein;
+
+NOW, THEREFORE, in consideration of the mutual promises set forth herein and other valuable consideration, the receipt and adequacy of which are hereby acknowledged, the parties agree as follows:
+
+ARTICLE 1 – LOAN DETAILS
+1.1 Loan Amount
+
+The Lender hereby agrees to lend the Borrower the sum of TWENTY MILLION UNITED STATES DOLLARS (US$20,000,000) (the "Loan").
+
+1.2 Interest Rate
+
+The Loan shall accrue interest at a variable rate equal to LIBOR plus two percent (2.0%) per annum, payable semi-annually.
+
+1.3 Loan Term
+
+The Loan term shall be twenty (20) years, beginning on the date hereof and terminating on the 30th day of September 2043.
+
+1.4 Repayment
+
+The Borrower shall make annual payments of principal and interest, commencing on September 30, 2024, and continuing each year thereafter until the Loan is fully repaid.
+
+ARTICLE 2 – REPRESENTATIONS AND WARRANTIES
+The Borrower hereby represents and warrants to the Lender:
+
+2.1 Corporate Existence
+
+The Borrower is a limited liability company duly organized and in good standing under the laws of the State of Colorado.
+
+2.2 Authorization
+
+The Borrower has all necessary power and authority to execute and deliver this Agreement and to perform its obligations hereunder.
+
+(Additional representations and warranties would cover topics such as litigation, environmental matters, and financial statements.)
+
+ARTICLE 3 – COVENANTS
+The Borrower covenants with the Lender as follows:
+
+3.1 Compliance with Laws
+
+The Borrower shall comply with all applicable federal, state, and local laws and regulations in conducting its business and in executing its obligations under this Agreement.
+
+3.2 Maintenance of Property
+
+The Borrower shall maintain and repair the property securing the Loan, ensuring it remains in good condition.
+
+(Additional covenants could detail financial covenants, reporting obligations, and other operational stipulations.)
+
+ARTICLE 4 – EVENTS OF DEFAULT
+An "Event of Default" shall occur upon:
+
+4.1 Default in Payment
+
+The failure of the Borrower to make any payment due under this Agreement within thirty (30) days of the due date.
+
+4.2 Breach of Covenant
+
+Any breach of a covenant contained in this Agreement that remains uncured for a period of sixty (60) days after notice thereof.
+
+(Additional events of default could include insolvency events, cross-defaults, and material adverse changes.)
+
+ARTICLE 5 – MISCELLANEOUS
+5.1 Assignment
+
+No party may assign its rights or obligations under this Agreement without the prior written consent of the other party.
+
+5.2 Governing Law
+
+This Agreement shall be governed by the laws of the State of Illinois.
+
+(Additional miscellaneous provisions might cover notices, waivers, and indemnities.)
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above mentioned.
+RIVERBANK FINANCIALS INC.
+By:_________________
+Name: Alice Kim
+Title: Chief Financial Officer
+
+BLUE SKY DEVELOPERS LLC
+By:_________________
+Name: David Lee
+Title: Managing Member
+
+DISCLAIMER: THIS DOCUMENT IS A MOCK-UP CREATED FOR EDUCATIONAL AND INFORMATIONAL PURPOSES ONLY. IT IS NOT INTENDED FOR ACTUAL LEGAL OR COMMERCIAL USE.

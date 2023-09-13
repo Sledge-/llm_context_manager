@@ -1,0 +1,93 @@
+COMMERCIAL REAL ESTATE LOAN AGREEMENT
+THIS AGREEMENT is executed this 10th day of November 2023.
+BETWEEN:
+SILVERLINE CAPITAL INC., a corporation duly incorporated and existing under the laws of the State of Texas, having its principal office at 7070 Silver Road, Houston, TX 77001 (hereinafter referred to as the "Lender").
+
+CITYSCAPE ENTERPRISES LLC, a limited liability company organized and existing under the laws of the State of Georgia, having its principal business office at 9090 Peachtree Street, Atlanta, GA 30301 (hereinafter referred to as the "Borrower").
+
+RECITALS:
+WHEREAS, the Borrower is engaged in the business of real estate development and seeks to secure funding for the construction of a commercial office building located at 1010 Business Boulevard, Atlanta, GA 30302;
+
+WHEREAS, the Lender is prepared to provide the required funding to the Borrower, subject to the terms and conditions set forth herein;
+
+NOW, THEREFORE, in consideration of the premises and the mutual agreements herein contained, the parties hereto agree as follows:
+
+ARTICLE 1 – LOAN DETAILS
+1.1 Loan Amount
+
+The Lender hereby agrees to lend to the Borrower, and the Borrower hereby agrees to borrow from the Lender, the principal amount of THIRTY MILLION UNITED STATES DOLLARS (US$30,000,000) (the "Loan").
+
+1.2 Interest Rate
+
+The Loan shall bear interest at a rate of six percent (6.0%) per annum, payable quarterly on the first day of January, April, July, and October of each year.
+
+1.3 Loan Term
+
+The Loan shall have a term of ten (10) years, beginning on the date hereof and terminating on the 10th day of November 2033.
+
+1.4 Repayment
+
+The Loan shall be repayable in monthly installments of principal and interest, with the first installment due on December 10, 2023.
+
+ARTICLE 2 – REPRESENTATIONS AND WARRANTIES
+The Borrower hereby represents and warrants to the Lender that:
+
+2.1 Legal Existence
+
+The Borrower is a limited liability company duly organized, validly existing, and in good standing under the laws of the State of Georgia.
+
+2.2 Authorization
+
+The Borrower has the legal right and authority to enter into this Agreement and to perform all of its obligations hereunder.
+
+(Additional representations and warranties would cover areas such as financial condition, litigation, environmental matters, etc.)
+
+ARTICLE 3 – COVENANTS
+The Borrower covenants to the Lender that:
+
+3.1 Insurance
+
+The Borrower shall maintain adequate insurance coverage on the property securing the Loan, with such insurance being satisfactory to the Lender in its sole discretion.
+
+3.2 Financial Reporting
+
+The Borrower shall furnish to the Lender annual audited financial statements within ninety (90) days of the end of each fiscal year.
+
+(Additional covenants would detail obligations regarding the operation of the business, maintenance of properties, etc.)
+
+ARTICLE 4 – EVENTS OF DEFAULT
+The occurrence of any of the following shall constitute an "Event of Default":
+
+4.1 Non-Payment
+
+The Borrower fails to pay any amount due under this Agreement within fifteen (15) days after the due date.
+
+4.2 Breach of Agreement
+
+Any breach of any representation, warranty, covenant, or agreement in this Agreement, which is not cured within thirty (30) days after written notice thereof from the Lender to the Borrower.
+
+(Additional events of default would specify other breaches of the agreement and insolvency events.)
+
+ARTICLE 5 – MISCELLANEOUS
+5.1 Governing Law
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of Texas.
+
+5.2 Amendments
+
+This Agreement may be amended or modified only by a written agreement executed by both parties hereto.
+
+(Additional miscellaneous provisions would cover notices, severability, etc.)
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+SILVERLINE CAPITAL INC.
+By:_________________
+Name: Richard Williams
+Title: Chief Executive Officer
+
+CITYSCAPE ENTERPRISES LLC
+By:_________________
+Name: Patricia Davis
+Title: Managing Member
+
+DISCLAIMER: THIS AGREEMENT IS A WORK OF FICTION CREATED FOR EDUCATIONAL AND INFORMATIONAL PURPOSES ONLY. IT IS NOT INTENDED FOR ACTUAL LEGAL OR BUSINESS TRANSACTIONS.

@@ -1,0 +1,94 @@
+COMMERCIAL REAL ESTATE LOAN AGREEMENT
+THIS AGREEMENT is made this 5th day of December 2023.
+BETWEEN:
+GOLDEN GATE FINANCE GROUP, a financial group duly registered and operating under the laws of the State of California, with its principal place of business located at 8080 Golden Street, San Francisco, CA 94101 (hereinafter referred to as the "Lender").
+
+URBAN HORIZONS LLC, a limited liability company organized and existing under the laws of the State of Washington, with its head office located at 7070 Horizon Drive, Seattle, WA 98101 (hereinafter referred to as the "Borrower").
+
+RECITALS:
+WHEREAS, the Borrower intends to finance the acquisition and renovation of a historic building located at 2020 Vintage Lane, Seattle, WA 98102, to be repurposed into a commercial complex;
+
+WHEREAS, the Lender is willing to facilitate the necessary financing to the Borrower, under the terms and conditions stipulated herein;
+
+NOW, THEREFORE, in recognition of the mutual covenants contained herein and other good and valuable consideration, the parties hereto agree as follows:
+
+ARTICLE 1 – LOAN DETAILS
+1.1 Loan Amount
+
+The Lender shall lend to the Borrower, and the Borrower shall accept from the Lender, a loan in the principal amount of FORTY MILLION UNITED STATES DOLLARS (US$40,000,000) (the "Loan").
+
+1.2 Interest Rate
+
+The Loan shall accrue interest at a fixed rate of four and a half percent (4.5%) per annum, with interest payments due semi-annually on the first days of June and December of each year.
+
+1.3 Loan Term
+
+The Loan shall have a term of eighteen (18) years, commencing on the date hereof and terminating on the 5th day of December 2041.
+
+1.4 Repayment
+
+The Borrower agrees to repay the Loan in semi-annual installments of both principal and interest, with the first installment due on June 1, 2024.
+
+ARTICLE 2 – REPRESENTATIONS AND WARRANTIES
+The Borrower hereby makes the following representations and warranties to the Lender:
+
+2.1 Legal Status
+
+The Borrower is a limited liability company, duly organized, validly existing, and in good standing under the laws of the State of Washington.
+
+2.2 Authorization
+
+The Borrower has the full power and authority to enter into this Agreement and to perform its obligations hereunder.
+
+(Additional representations and warranties to discuss the financial position, litigation, regulatory compliance, etc.)
+
+ARTICLE 3 – COVENANTS
+The Borrower hereby covenants with the Lender as follows:
+
+3.1 Use of Funds
+
+The Borrower shall use the Loan proceeds exclusively for the purposes described in the Recitals above.
+
+3.2 Maintenance of Properties
+
+The Borrower shall maintain the property securing the Loan in good condition and repair, ordinary wear and tear excepted.
+
+(Additional covenants would include insurance maintenance, financial reporting, etc.)
+
+ARTICLE 4 – EVENTS OF DEFAULT
+The following events shall constitute events of default under this Agreement:
+
+4.1 Non-Payment
+
+Failure by the Borrower to pay any sum due under this Agreement within ten (10) days of the due date.
+
+4.2 Material Adverse Change
+
+The occurrence of any material adverse change in the financial condition of the Borrower.
+
+(Additional events of default would involve breaches of covenants, representations, or warranties, insolvency events, etc.)
+
+ARTICLE 5 – MISCELLANEOUS
+5.1 Governing Law
+
+This Agreement shall be governed by and construed in accordance with the laws of the State of California.
+
+5.2 Amendments
+
+No amendment or waiver of any provision of this Agreement shall be effective unless in writing and signed by both parties.
+
+(Additional miscellaneous provisions regarding notices, severability, etc.)
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+GOLDEN GATE FINANCE GROUP
+By:_________________
+Name: Laura Johnson
+Title: President
+
+URBAN HORIZONS LLC
+By:_________________
+Name: Peter Thompson
+Title: Managing Director
+
+DISCLAIMER: THIS DOCUMENT IS A SIMULATED MOCK-UP CREATED STRICTLY FOR EDUCATIONAL AND INFORMATIONAL PURPOSES AND SHOULD NOT BE USED IN ANY REAL-WORLD LEGAL OR FINANCIAL TRANSACTIONS.
+This iteration of the mock agreement features a project revolving around the renovation of a historic building and offers different financial terms compared to previous examples. Let me know if this is in line with what you're looking for, or if there's any particular focus you'd like for the next example.
