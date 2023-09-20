@@ -1,93 +1,93 @@
-COMMERCIAL REAL ESTATE LOAN AGREEMENT
-THIS AGREEMENT is entered into this 30th day of September 2023.
-BETWEEN:
-RIVERBANK FINANCIALS INC., a corporation incorporated and existing under the laws of the State of Illinois, with its principal place of business located at 3030 River Road, Chicago, IL 60601 (hereinafter referred to as the "Lender").
+UTO LOAN AGREEMENT
+THIS AGREEMENT is made this 1st day of March, 2023.
 
-BLUE SKY DEVELOPERS LLC, a limited liability company organized and existing under the laws of the State of Colorado, with its registered office located at 4747 Sky Lane, Denver, CO 80201 (hereinafter referred to as the "Borrower").
+BETWEEN:
+DEF Auto Financing 372, a financial institution duly organized and existing under the laws of the state, having its principal place of business at 4605 Cedar St, Springfield, USA (hereinafter referred to as the "Lender").
+
+Alex Johnson 986, an individual residing at 7510 Birch St, Springfield, USA (hereinafter referred to as the "Borrower").
 
 RECITALS:
-WHEREAS, the Borrower is involved in the development of commercial real estate properties and seeks to secure a loan for the redevelopment of a shopping complex located at 1010 Market Street, Denver, CO 80301;
+WHEREAS, the Borrower has requested the Lender to extend a loan to the Borrower for the purpose of financing the acquisition of a vehicle described in detail in ARTICLE 1;
 
-WHEREAS, the Lender is willing to grant such a loan to the Borrower on the terms and conditions set forth herein;
+WHEREAS, the Lender has agreed to extend such a loan to the Borrower on the terms and conditions set forth herein;
 
-NOW, THEREFORE, in consideration of the mutual promises set forth herein and other valuable consideration, the receipt and adequacy of which are hereby acknowledged, the parties agree as follows:
+NOW, THEREFORE, in consideration of the mutual covenants contained herein and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
 
 ARTICLE 1 – LOAN DETAILS
 1.1 Loan Amount
-
-The Lender hereby agrees to lend the Borrower the sum of TWENTY MILLION UNITED STATES DOLLARS (US$20,000,000) (the "Loan").
+The Lender agrees to lend to the Borrower, and the Borrower agrees to borrow from the Lender, the principal amount of FOURTEEN THOUSAND SIX HUNDRED SEVENTY-NINE UNITED STATES DOLLARS (US$14,679) (the "Loan").
 
 1.2 Interest Rate
-
-The Loan shall accrue interest at a variable rate equal to LIBOR plus two percent (2.0%) per annum, payable semi-annually.
+The Loan shall bear interest at a rate of four point sixty-nine percent (4.69%) per annum, calculated on the basis of a 360-day year for the actual number of days elapsed.
 
 1.3 Loan Term
+The term of the Loan shall be seventy-six (76) months, commencing on the date hereof and ending on the last day of the seventy-sixth month thereafter, unless sooner terminated in accordance with the terms hereof.
 
-The Loan term shall be twenty (20) years, beginning on the date hereof and terminating on the 30th day of September 2043.
+1.4 Down Payment
+The Borrower has made a down payment of ONE THOUSAND SEVEN HUNDRED SEVENTY-FOUR UNITED STATES DOLLARS AND NINETY-TWO CENTS (US$1,774.92) towards the purchase of the vehicle.
 
-1.4 Repayment
+1.5 Repayment
+The Borrower shall repay the Loan in monthly installments of principal and interest, with the first installment due on April 1, 2023, and subsequent installments due on the first day of each month thereafter.
 
-The Borrower shall make annual payments of principal and interest, commencing on September 30, 2024, and continuing each year thereafter until the Loan is fully repaid.
+1.6 Vehicle Details
+The loan is extended for the purpose of financing the acquisition of the following vehicle:
 
+Make: Honda
+Model: Van
+Year: 2017
+VIN: 8VK4SYR30PS4BU9QL
 ARTICLE 2 – REPRESENTATIONS AND WARRANTIES
-The Borrower hereby represents and warrants to the Lender:
+The Borrower hereby represents and warrants to the Lender as follows:
 
-2.1 Corporate Existence
+2.1 Legal Age
+The Borrower is of legal age to enter into binding contracts in the jurisdiction where the Borrower resides.
 
-The Borrower is a limited liability company duly organized and in good standing under the laws of the State of Colorado.
+2.2 Accurate Information
+All information provided by the Borrower to the Lender, including but not limited to the Borrower’s financial condition, is true, correct, and complete.
 
-2.2 Authorization
-
-The Borrower has all necessary power and authority to execute and deliver this Agreement and to perform its obligations hereunder.
-
-(Additional representations and warranties would cover topics such as litigation, environmental matters, and financial statements.)
+(Additional representations and warranties would include details regarding no conflicts, litigation, accuracy of information, etc.)
 
 ARTICLE 3 – COVENANTS
-The Borrower covenants with the Lender as follows:
+The Borrower covenants and agrees with the Lender as follows:
 
-3.1 Compliance with Laws
+3.1 Maintenance of the Vehicle
+The Borrower shall maintain the vehicle in good working condition and shall bear all costs associated with the maintenance of the vehicle.
 
-The Borrower shall comply with all applicable federal, state, and local laws and regulations in conducting its business and in executing its obligations under this Agreement.
+3.2 Insurance
+The Borrower shall maintain comprehensive insurance on the vehicle at all times during the term of the loan.
 
-3.2 Maintenance of Property
-
-The Borrower shall maintain and repair the property securing the Loan, ensuring it remains in good condition.
-
-(Additional covenants could detail financial covenants, reporting obligations, and other operational stipulations.)
+(Additional affirmative and negative covenants would be detailed in this section, including financial reporting requirements, restrictions on indebtedness, etc.)
 
 ARTICLE 4 – EVENTS OF DEFAULT
-An "Event of Default" shall occur upon:
+The following shall constitute events of default under this Agreement:
 
-4.1 Default in Payment
+4.1 Non-Payment
+Failure by the Borrower to pay any amount due under this Agreement within ten (10) days of the due date.
 
-The failure of the Borrower to make any payment due under this Agreement within thirty (30) days of the due date.
+4.2 Breach of Representation
+Any representation or warranty made by the Borrower herein proves to have been incorrect in any material respect when made.
 
-4.2 Breach of Covenant
-
-Any breach of a covenant contained in this Agreement that remains uncured for a period of sixty (60) days after notice thereof.
-
-(Additional events of default could include insolvency events, cross-defaults, and material adverse changes.)
+(Additional events of default would be detailed in this section, including bankruptcy events, cross-defaults to other agreements, etc.)
 
 ARTICLE 5 – MISCELLANEOUS
-5.1 Assignment
-
-No party may assign its rights or obligations under this Agreement without the prior written consent of the other party.
+5.1 Notices
+Any notice or other communication required or permitted to be given hereunder shall be in writing and shall be deemed to have been duly given when delivered in person, or sent by registered mail, to the respective parties at the addresses set forth above.
 
 5.2 Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of the state, without regard to conflict of laws principles.
 
-This Agreement shall be governed by the laws of the State of Illinois.
+(Additional miscellaneous provisions would include details regarding amendments, waivers, severability, etc.)
 
-(Additional miscellaneous provisions might cover notices, waivers, and indemnities.)
-
-IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above mentioned.
-RIVERBANK FINANCIALS INC.
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+DEF Auto Financing 372
 By:_________________
-Name: Alice Kim
-Title: Chief Financial Officer
+Name: (To be filled in)
+Title: Loan Officer
 
-BLUE SKY DEVELOPERS LLC
+Alex Johnson 986
 By:_________________
-Name: David Lee
-Title: Managing Member
+Name: Alex Johnson 986
+Title: Borrower
 
-DISCLAIMER: THIS DOCUMENT IS A MOCK-UP CREATED FOR EDUCATIONAL AND INFORMATIONAL PURPOSES ONLY. IT IS NOT INTENDED FOR ACTUAL LEGAL OR COMMERCIAL USE.
+DISCLAIMER:
+THIS DOCUMENT IS A MOCK REPRESENTATION CREATED FOR DEMONSTRATION PURPOSES ONLY. IT IS NOT INTENDED TO BE USED FOR ANY REAL LEGAL OR COMMERCIAL TRANSACTIONS.

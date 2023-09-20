@@ -1,6 +1,8 @@
 from collections.abc import Iterable
 import os
 from llm_summarizer import LLMSummarizer
+from utils import count_words_in_values
+
 
 # Defining the entire LLMPrompt class with all modifications
 class LLMContextManager:
@@ -34,15 +36,12 @@ class LLMContextManager:
         else:
             raise ValueError(f"Section {section} not found.")
 
-    def get_truncated_context(self):
+    def get_total_word_count(self):
         """
-        Retrieves the truncated context by keeping the most recent text up to the specified limits.
+        
         """
-        truncated_context = {}
-        for section, content in self.sections.items():
-            truncated_content = " ".join(content.split()[-self._get_section_limit(section):])
-            truncated_context[section] = truncated_content
-        return truncated_context
+        word_count = count_words_in_values(self.sections)
+        return word_count
 
     def get_summarized_context(self, sections=None):
         """
@@ -101,8 +100,13 @@ if __name__ == "__main__":
     # Print out one of the loaded sections
     print(f"Contents of the 'example_section' section: {llm_context_manager.sections.get('doc1', 'Section not found.')}")
     print(f"llm_prompt.get_section_keys(): {llm_context_manager.get_section_keys()}")
+    
+    #: Get the word count:
+    total_words = llm_context_manager.get_total_word_count()
+    print(f"The total number of words in the values is: {total_words}")
 
     #: Get summarized content:
     summarized_context = llm_context_manager.get_summarized_context()
     print(f"\nsummarized_context: \n {dict_to_text(summarized_context)}")
+
 

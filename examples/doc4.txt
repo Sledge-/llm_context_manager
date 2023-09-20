@@ -1,93 +1,94 @@
-COMMERCIAL REAL ESTATE LOAN AGREEMENT
-THIS AGREEMENT is made effective as of the 20th day of October 2023.
-BETWEEN:
-MOUNTAIN PEAK FINANCIAL CORP., a corporation duly constituted and existing under the laws of the State of Nevada, with its chief executive office located at 5050 Peak Street, Las Vegas, NV 89101 (hereinafter referred to as the "Lender").
+AUTO LOAN AGREEMENT
+THIS AGREEMENT is made this 1st day of March, 2023.
 
-GREENFIELD DEVELOPERS LTD., a limited company incorporated and existing under the laws of the State of Oregon, with its principal business office situated at 2020 Green Avenue, Portland, OR 97201 (hereinafter referred to as the "Borrower").
+BETWEEN:
+GHI Auto Loans 332, a financial institution duly organized and existing under the laws of the state, having its principal place of business at 4677 Spruce St, Springfield, USA (hereinafter referred to as the "Lender").
+
+Chris Lee 938, an individual residing at 3923 Pine St, Springfield, USA (hereinafter referred to as the "Borrower").
 
 RECITALS:
-WHEREAS, the Borrower intends to undertake the development of a mixed-use commercial and residential complex situated at 3030 Urban Drive, Portland, OR 97202;
+WHEREAS, the Borrower has requested the Lender to extend a loan to the Borrower for the purpose of financing the acquisition of a vehicle described in detail in ARTICLE 1;
 
-WHEREAS, the Lender has agreed to extend a loan to the Borrower to finance the said development project, subject to the terms and conditions contained herein;
+WHEREAS, the Lender has agreed to extend such a loan to the Borrower on the terms and conditions set forth herein;
 
-NOW, THEREFORE, in consideration of the premises and the mutual covenants hereinafter contained, the parties hereto agree as follows:
+NOW, THEREFORE, in consideration of the mutual covenants contained herein and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
 
 ARTICLE 1 – LOAN DETAILS
 1.1 Loan Amount
-
-The Lender agrees to extend to the Borrower a loan in the principal amount of TWENTY-FIVE MILLION UNITED STATES DOLLARS (US$25,000,000) (hereinafter referred to as the "Loan").
+The Lender agrees to lend to the Borrower, and the Borrower agrees to borrow from the Lender, the principal amount of SEVENTEEN THOUSAND SEVEN HUNDRED SIX UNITED STATES DOLLARS (US$17,706) (the "Loan").
 
 1.2 Interest Rate
-
-The Loan will bear interest at a rate of five percent (5.0%) per annum, compounded annually, with interest payable on the last day of each calendar year.
+The Loan shall bear interest at a rate of thirteen point three percent (13.3%) per annum, calculated on the basis of a 360-day year for the actual number of days elapsed.
 
 1.3 Loan Term
+The term of the Loan shall be eighty-two (82) months, commencing on the date hereof and ending on the last day of the eighty-second month thereafter, unless sooner terminated in accordance with the terms hereof.
 
-The term of the Loan will be twelve (12) years, commencing on the date of this Agreement and expiring on the 20th day of October 2035.
+1.4 Down Payment
+The Borrower has made a down payment of SEVEN HUNDRED SEVENTEEN UNITED STATES DOLLARS AND SEVENTY-ONE CENTS (US$717.71) towards the purchase of the vehicle.
 
-1.4 Repayment
+1.5 Repayment
+The Borrower shall repay the Loan in monthly installments of principal and interest, with the first installment due on April 1, 2023, and subsequent installments due on the first day of each month thereafter.
 
-The Borrower will repay the Loan in equal semi-annual installments of principal and interest, with the first installment due on April 20, 2024.
+1.6 Vehicle Details
+The loan is extended for the purpose of financing the acquisition of the following vehicle:
 
+Make: Tesla
+Model: Sedan
+Year: 2021
+VIN: W0SWTYIHHDVOTU97T
 ARTICLE 2 – REPRESENTATIONS AND WARRANTIES
-The Borrower represents and warrants to the Lender that:
+The Borrower hereby represents and warrants to the Lender as follows:
 
-2.1 Corporate Status
+2.1 Legal Age
+The Borrower is of legal age to enter into binding contracts in the jurisdiction where the Borrower resides.
 
-The Borrower is a limited company, duly organized and in good standing under the laws of the State of Oregon.
+2.2 Accurate Information
+All information provided by the Borrower to the Lender, including but not limited to the Borrower’s financial condition, is true, correct, and complete.
 
-2.2 Validity
-
-The execution, delivery, and performance of this Agreement are within the Borrower's corporate powers and have been duly authorized by all necessary corporate actions.
-
-(Additional representations and warranties would be outlined in this section, focusing on financial status, no conflicts, etc.)
+(Additional representations and warranties would include details regarding no conflicts, litigation, accuracy of information, etc.)
 
 ARTICLE 3 – COVENANTS
-The Borrower agrees with the Lender as follows:
+The Borrower covenants and agrees with the Lender as follows:
 
-3.1 Use of Proceeds
+3.1 Maintenance of the Vehicle
+The Borrower shall maintain the vehicle in good working condition and shall bear all costs associated with the maintenance of the vehicle.
 
-The Borrower shall use the proceeds of the Loan exclusively for the development of the project described in the Recitals.
+3.2 Insurance
+The Borrower shall maintain comprehensive insurance on the vehicle at all times during the term of the loan.
 
-3.2 Reporting
-
-The Borrower shall provide the Lender with quarterly financial statements, including a balance sheet and income statement, prepared in accordance with generally accepted accounting principles.
-
-(Additional covenants would include maintenance of insurance, compliance with laws, etc.)
+(Additional affirmative and negative covenants would be detailed in this section, including financial reporting requirements, restrictions on indebtedness, etc.)
 
 ARTICLE 4 – EVENTS OF DEFAULT
-An event of default occurs upon:
+The following shall constitute events of default under this Agreement:
 
 4.1 Non-Payment
+Failure by the Borrower to pay any amount due under this Agreement within ten (10) days of the due date.
 
-The failure by the Borrower to make any payment of principal or interest on the Loan when due.
+4.2 Breach of Representation
+Any representation or warranty made by the Borrower herein proves to have been incorrect in any material respect when made.
 
-4.2 Misrepresentation
-
-Any representation or warranty made by the Borrower in this Agreement proves to be false or misleading in any material respect.
-
-(Additional events of default would include bankruptcy, breach of covenants, etc.)
+(Additional events of default would be detailed in this section, including bankruptcy events, cross-defaults to other agreements, etc.)
 
 ARTICLE 5 – MISCELLANEOUS
-5.1 Governing Law
+5.1 Notices
+Any notice or other communication required or permitted to be given hereunder shall be in writing and shall be deemed to have been duly given when delivered in person, or sent by registered mail, to the respective parties at the addresses set forth above.
 
-This Agreement shall be governed by, and construed in accordance with, the laws of the State of Nevada.
+5.2 Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of the state, without regard to conflict of laws principles.
 
-5.2 Notices
+(Additional miscellaneous provisions would include details regarding amendments, waivers, severability, etc.)
 
-All notices, requests, and other communications hereunder shall be in writing and shall be deemed to have been duly given when delivered to the parties at their respective addresses mentioned above.
-
-(Additional provisions would cover amendments, waivers, etc.)
-
-IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the Effective Date.
-MOUNTAIN PEAK FINANCIAL CORP.
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+GHI Auto Loans 332
 By:_________________
-Name: Emily Clark
-Title: Senior Vice President
+Name: (To be filled in)
+Title: Loan Officer
 
-GREENFIELD DEVELOPERS LTD.
+Chris Lee 938
 By:_________________
-Name: Michael Brown
-Title: Director
+Name: Chris Lee 938
+Title: Borrower
 
-DISCLAIMER: THIS DOCUMENT IS A FICTIONAL SAMPLE CREATED FOR EDUCATIONAL AND INFORMATIONAL PURPOSES ONLY. IT DOES NOT CONSTITUTE LEGAL ADVICE AND IS NOT INTENDED FOR ANY REAL TRANSACTION.
+DISCLAIMER:
+THIS DOCUMENT IS A MOCK REPRESENTATION CREATED FOR DEMONSTRATION PURPOSES ONLY. IT IS NOT INTENDED TO BE USED FOR ANY REAL LEGAL OR COMMERCIAL TRANSACTIONS.
+

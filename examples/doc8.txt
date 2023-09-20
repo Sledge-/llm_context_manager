@@ -1,93 +1,93 @@
-COMMERCIAL REAL ESTATE LOAN AGREEMENT
-THIS AGREEMENT is entered into this 25th day of February 2024.
-BETWEEN:
-SUNRISE FINANCIAL GROUP, a financial entity duly incorporated and functioning under the laws of the State of Florida, with its principal office located at 1111 Sunrise Boulevard, Miami, FL 33101 (hereinafter referred to as the "Lender").
+AUTO LOAN AGREEMENT
+THIS AGREEMENT is made this 1st day of March, 2023.
 
-BAYSIDE DEVELOPERS INC., a corporation incorporated and operating under the laws of the State of Maryland, with its corporate headquarters at 2020 Harbor Way, Baltimore, MD 21201 (hereinafter referred to as the "Borrower").
+BETWEEN:
+STU Car Loans 560, a financial institution duly organized and existing under the laws of the state, having its principal place of business at 3020 Oak St, Springfield, USA (hereinafter referred to as the "Lender").
+
+Alex Lee 190, an individual residing at 3039 Pine St, Springfield, USA (hereinafter referred to as the "Borrower").
 
 RECITALS:
-WHEREAS, the Borrower seeks to secure funding for the development of a high-end commercial and residential condominium complex situated at 3030 Harbor Point, Baltimore, MD 21202;
+WHEREAS, the Borrower has requested the Lender to extend a loan to the Borrower for the purpose of financing the acquisition of a vehicle described in detail in ARTICLE 1;
 
-WHEREAS, the Lender is willing to extend the necessary financing to the Borrower, subject to the terms and conditions delineated herein;
+WHEREAS, the Lender has agreed to extend such a loan to the Borrower on the terms and conditions set forth herein;
 
-NOW, THEREFORE, in consideration of the mutual covenants and agreements herein contained, the parties hereto agree as follows:
+NOW, THEREFORE, in consideration of the mutual covenants contained herein and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
 
 ARTICLE 1 – LOAN DETAILS
 1.1 Loan Amount
-
-The Lender shall lend to the Borrower a total amount of SIXTY MILLION UNITED STATES DOLLARS (US$60,000,000) (the "Loan").
+The Lender agrees to lend to the Borrower, and the Borrower agrees to borrow from the Lender, the principal amount of SEVENTY-ONE THOUSAND SIX HUNDRED TWENTY-THREE UNITED STATES DOLLARS (US$71,623) (the "Loan").
 
 1.2 Interest Rate
-
-The Loan shall bear interest at a yearly rate of six percent (6.0%), payable semi-annually on the first days of July and January each year.
+The Loan shall bear interest at a rate of nine point ninety-six percent (9.96%) per annum, calculated on the basis of a 360-day year for the actual number of days elapsed.
 
 1.3 Loan Term
+The term of the Loan shall be seventy (70) months, commencing on the date hereof and ending on the last day of the seventieth month thereafter, unless sooner terminated in accordance with the terms hereof.
 
-The Loan will have a tenure of twenty (20) years, initiating from the date of this Agreement and concluding on the 25th day of February 2044.
+1.4 Down Payment
+The Borrower has made a down payment of ELEVEN THOUSAND EIGHT HUNDRED THIRTY-FIVE UNITED STATES DOLLARS AND FIFTY-TWO CENTS (US$11,835.52) towards the purchase of the vehicle.
 
-1.4 Repayment
+1.5 Repayment
+The Borrower shall repay the Loan in monthly installments of principal and interest, with the first installment due on April 1, 2023, and subsequent installments due on the first day of each month thereafter.
 
-The Borrower shall undertake to repay the Loan in semi-annual installments comprising both principal and interest, commencing on July 1, 2024.
+1.6 Vehicle Details
+The loan is extended for the purpose of financing the acquisition of the following vehicle:
 
+Make: Honda
+Model: Convertible
+Year: 2019
+VIN: 9BP3PCU3HLNLHX9RA
 ARTICLE 2 – REPRESENTATIONS AND WARRANTIES
-The Borrower hereby assures the Lender of the following:
+The Borrower hereby represents and warrants to the Lender as follows:
 
-2.1 Corporate Standing
+2.1 Legal Age
+The Borrower is of legal age to enter into binding contracts in the jurisdiction where the Borrower resides.
 
-The Borrower is a corporation duly formed, validly existing, and in good standing under the laws of the State of Maryland.
+2.2 Accurate Information
+All information provided by the Borrower to the Lender, including but not limited to the Borrower’s financial condition, is true, correct, and complete.
 
-2.2 Authorization
-
-The Borrower has secured all necessary corporate approvals to enter into this Agreement and to fulfill its obligations hereunder.
-
-(Additional representations and warranties would focus on financial status, compliance with laws, no conflicts, etc.)
+(Additional representations and warranties would include details regarding no conflicts, litigation, accuracy of information, etc.)
 
 ARTICLE 3 – COVENANTS
-The Borrower covenants with the Lender as follows:
+The Borrower covenants and agrees with the Lender as follows:
 
-3.1 Utilization of Funds
+3.1 Maintenance of the Vehicle
+The Borrower shall maintain the vehicle in good working condition and shall bear all costs associated with the maintenance of the vehicle.
 
-The Borrower shall allocate the Loan funds exclusively for the purpose outlined in the Recitals.
+3.2 Insurance
+The Borrower shall maintain comprehensive insurance on the vehicle at all times during the term of the loan.
 
-3.2 Property Maintenance
-
-The Borrower shall diligently maintain the property securing the Loan, ensuring it retains good condition and value.
-
-(Additional covenants could include insurance requirements, financial reporting obligations, etc.)
+(Additional affirmative and negative covenants would be detailed in this section, including financial reporting requirements, restrictions on indebtedness, etc.)
 
 ARTICLE 4 – EVENTS OF DEFAULT
-An "Event of Default" shall be deemed to occur if:
+The following shall constitute events of default under this Agreement:
 
-4.1 Delay in Payment
+4.1 Non-Payment
+Failure by the Borrower to pay any amount due under this Agreement within ten (10) days of the due date.
 
-The Borrower defaults in making any payment under this Agreement within a grace period of thirty (30) days.
+4.2 Breach of Representation
+Any representation or warranty made by the Borrower herein proves to have been incorrect in any material respect when made.
 
-4.2 Breach of Covenant
-
-The Borrower breaches any covenant contained herein and fails to remedy such breach within sixty (60) days of receiving notice from the Lender.
-
-(Additional events of default might encompass insolvency proceedings, material misrepresentations, etc.)
+(Additional events of default would be detailed in this section, including bankruptcy events, cross-defaults to other agreements, etc.)
 
 ARTICLE 5 – MISCELLANEOUS
-5.1 Governing Law
+5.1 Notices
+Any notice or other communication required or permitted to be given hereunder shall be in writing and shall be deemed to have been duly given when delivered in person, or sent by registered mail, to the respective parties at the addresses set forth above.
 
-This Agreement shall be construed and enforced in accordance with the laws of the State of Florida.
+5.2 Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of the state, without regard to conflict of laws principles.
 
-5.2 Amendment
+(Additional miscellaneous provisions would include details regarding amendments, waivers, severability, etc.)
 
-Any amendment to this Agreement must be in writing and executed by both parties.
-
-(Additional miscellaneous provisions could detail notice requirements, assignment restrictions, etc.)
-
-IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
-SUNRISE FINANCIAL GROUP
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+STU Car Loans 560
 By:_________________
-Name: Adrian Smith
-Title: Chief Financial Officer
+Name: (To be filled in)
+Title: Loan Officer
 
-BAYSIDE DEVELOPERS INC.
+Alex Lee 190
 By:_________________
-Name: Christine Johnson
-Title: President
+Name: Alex Lee 190
+Title: Borrower
 
-DISCLAIMER: THIS DOCUMENT IS A FICTIONAL MOCK-UP CREATED FOR EDUCATIONAL AND INFORMATIONAL PURPOSES ONLY. IT IS NOT INTENDED FOR ACTUAL LEGAL OR COMMERCIAL TRANSACTIONS.
+DISCLAIMER:
+THIS DOCUMENT IS A MOCK REPRESENTATION CREATED FOR DEMONSTRATION PURPOSES ONLY. IT IS NOT INTENDED TO BE USED FOR ANY REAL LEGAL OR COMMERCIAL TRANSACTIONS.

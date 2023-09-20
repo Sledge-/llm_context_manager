@@ -1,93 +1,94 @@
-COMMERCIAL REAL ESTATE LOAN AGREEMENT
-THIS AGREEMENT is executed this 10th day of November 2023.
-BETWEEN:
-SILVERLINE CAPITAL INC., a corporation duly incorporated and existing under the laws of the State of Texas, having its principal office at 7070 Silver Road, Houston, TX 77001 (hereinafter referred to as the "Lender").
+AUTO LOAN AGREEMENT
+THIS AGREEMENT is made this 1st day of March, 2023.
 
-CITYSCAPE ENTERPRISES LLC, a limited liability company organized and existing under the laws of the State of Georgia, having its principal business office at 9090 Peachtree Street, Atlanta, GA 30301 (hereinafter referred to as the "Borrower").
+BETWEEN:
+JKL Car Financing 437, a financial institution duly organized and existing under the laws of the state, having its principal place of business at 2482 Maple St, Springfield, USA (hereinafter referred to as the "Lender").
+
+Taylor Green 204, an individual residing at 3217 Willow St, Springfield, USA (hereinafter referred to as the "Borrower").
 
 RECITALS:
-WHEREAS, the Borrower is engaged in the business of real estate development and seeks to secure funding for the construction of a commercial office building located at 1010 Business Boulevard, Atlanta, GA 30302;
+WHEREAS, the Borrower has requested the Lender to extend a loan to the Borrower for the purpose of financing the acquisition of a vehicle described in detail in ARTICLE 1;
 
-WHEREAS, the Lender is prepared to provide the required funding to the Borrower, subject to the terms and conditions set forth herein;
+WHEREAS, the Lender has agreed to extend such a loan to the Borrower on the terms and conditions set forth herein;
 
-NOW, THEREFORE, in consideration of the premises and the mutual agreements herein contained, the parties hereto agree as follows:
+NOW, THEREFORE, in consideration of the mutual covenants contained herein and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
 
 ARTICLE 1 – LOAN DETAILS
 1.1 Loan Amount
-
-The Lender hereby agrees to lend to the Borrower, and the Borrower hereby agrees to borrow from the Lender, the principal amount of THIRTY MILLION UNITED STATES DOLLARS (US$30,000,000) (the "Loan").
+The Lender agrees to lend to the Borrower, and the Borrower agrees to borrow from the Lender, the principal amount of NINE THOUSAND EIGHT HUNDRED TWENTY-SIX UNITED STATES DOLLARS (US$9,826) (the "Loan").
 
 1.2 Interest Rate
-
-The Loan shall bear interest at a rate of six percent (6.0%) per annum, payable quarterly on the first day of January, April, July, and October of each year.
+The Loan shall bear interest at a rate of three point sixty-nine percent (3.69%) per annum, calculated on the basis of a 360-day year for the actual number of days elapsed.
 
 1.3 Loan Term
+The term of the Loan shall be eighty-three (83) months, commencing on the date hereof and ending on the last day of the eighty-third month thereafter, unless sooner terminated in accordance with the terms hereof.
 
-The Loan shall have a term of ten (10) years, beginning on the date hereof and terminating on the 10th day of November 2033.
+1.4 Down Payment
+The Borrower has made a down payment of FOUR HUNDRED THIRTY-FIVE UNITED STATES DOLLARS AND EIGHTY-FIVE CENTS (US$435.85) towards the purchase of the vehicle.
 
-1.4 Repayment
+1.5 Repayment
+The Borrower shall repay the Loan in monthly installments of principal and interest, with the first installment due on April 1, 2023, and subsequent installments due on the first day of each month thereafter.
 
-The Loan shall be repayable in monthly installments of principal and interest, with the first installment due on December 10, 2023.
+1.6 Vehicle Details
+The loan is extended for the purpose of financing the acquisition of the following vehicle:
 
+Make: Chevrolet
+Model: Wagon
+Year: 2023
+VIN: PO9LV48U0UY8C7R1I
 ARTICLE 2 – REPRESENTATIONS AND WARRANTIES
-The Borrower hereby represents and warrants to the Lender that:
+The Borrower hereby represents and warrants to the Lender as follows:
 
-2.1 Legal Existence
+2.1 Legal Age
+The Borrower is of legal age to enter into binding contracts in the jurisdiction where the Borrower resides.
 
-The Borrower is a limited liability company duly organized, validly existing, and in good standing under the laws of the State of Georgia.
+2.2 Accurate Information
+All information provided by the Borrower to the Lender, including but not limited to the Borrower’s financial condition, is true, correct, and complete.
 
-2.2 Authorization
-
-The Borrower has the legal right and authority to enter into this Agreement and to perform all of its obligations hereunder.
-
-(Additional representations and warranties would cover areas such as financial condition, litigation, environmental matters, etc.)
+(Additional representations and warranties would include details regarding no conflicts, litigation, accuracy of information, etc.)
 
 ARTICLE 3 – COVENANTS
-The Borrower covenants to the Lender that:
+The Borrower covenants and agrees with the Lender as follows:
 
-3.1 Insurance
+3.1 Maintenance of the Vehicle
+The Borrower shall maintain the vehicle in good working condition and shall bear all costs associated with the maintenance of the vehicle.
 
-The Borrower shall maintain adequate insurance coverage on the property securing the Loan, with such insurance being satisfactory to the Lender in its sole discretion.
+3.2 Insurance
+The Borrower shall maintain comprehensive insurance on the vehicle at all times during the term of the loan.
 
-3.2 Financial Reporting
-
-The Borrower shall furnish to the Lender annual audited financial statements within ninety (90) days of the end of each fiscal year.
-
-(Additional covenants would detail obligations regarding the operation of the business, maintenance of properties, etc.)
+(Additional affirmative and negative covenants would be detailed in this section, including financial reporting requirements, restrictions on indebtedness, etc.)
 
 ARTICLE 4 – EVENTS OF DEFAULT
-The occurrence of any of the following shall constitute an "Event of Default":
+The following shall constitute events of default under this Agreement:
 
 4.1 Non-Payment
+Failure by the Borrower to pay any amount due under this Agreement within ten (10) days of the due date.
 
-The Borrower fails to pay any amount due under this Agreement within fifteen (15) days after the due date.
+4.2 Breach of Representation
+Any representation or warranty made by the Borrower herein proves to have been incorrect in any material respect when made.
 
-4.2 Breach of Agreement
-
-Any breach of any representation, warranty, covenant, or agreement in this Agreement, which is not cured within thirty (30) days after written notice thereof from the Lender to the Borrower.
-
-(Additional events of default would specify other breaches of the agreement and insolvency events.)
+(Additional events of default would be detailed in this section, including bankruptcy events, cross-defaults to other agreements, etc.)
 
 ARTICLE 5 – MISCELLANEOUS
-5.1 Governing Law
+5.1 Notices
+Any notice or other communication required or permitted to be given hereunder shall be in writing and shall be deemed to have been duly given when delivered in person, or sent by registered mail, to the respective parties at the addresses set forth above.
 
-This Agreement shall be governed by and construed in accordance with the laws of the State of Texas.
+5.2 Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of the state, without regard to conflict of laws principles.
 
-5.2 Amendments
-
-This Agreement may be amended or modified only by a written agreement executed by both parties hereto.
-
-(Additional miscellaneous provisions would cover notices, severability, etc.)
+(Additional miscellaneous provisions would include details regarding amendments, waivers, severability, etc.)
 
 IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
-SILVERLINE CAPITAL INC.
+JKL Car Financing 437
 By:_________________
-Name: Richard Williams
-Title: Chief Executive Officer
+Name: (To be filled in)
+Title: Loan Officer
 
-CITYSCAPE ENTERPRISES LLC
+Taylor Green 204
 By:_________________
-Name: Patricia Davis
-Title: Managing Member
+Name: Taylor Green 204
+Title: Borrower
 
-DISCLAIMER: THIS AGREEMENT IS A WORK OF FICTION CREATED FOR EDUCATIONAL AND INFORMATIONAL PURPOSES ONLY. IT IS NOT INTENDED FOR ACTUAL LEGAL OR BUSINESS TRANSACTIONS.
+DISCLAIMER:
+THIS DOCUMENT IS A MOCK REPRESENTATION CREATED FOR DEMONSTRATION PURPOSES ONLY. IT IS NOT INTENDED TO BE USED FOR ANY REAL LEGAL OR COMMERCIAL TRANSACTIONS.
+

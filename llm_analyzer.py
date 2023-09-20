@@ -76,6 +76,9 @@ if __name__ == "__main__":
     llm_context_manager = LLMContextManager()
     llm_analyzer = LLMAnalyzer()
 
+    def compute_total_debt(inputs):
+        return sum(inputs)
+
     llm_context_manager = LLMContextManager.load_from_directory(dir_path='examples')
     #: Get summarized content:
     summarized_context = dict_to_text(llm_context_manager.get_summarized_context())
@@ -91,6 +94,6 @@ if __name__ == "__main__":
     print(type(args))
     print(colored(f"args: {args}", "red"))
 
-    final_result = sum(args)
+    final_result = compute_total_debt(args)
     print(f"final_result: {final_result}")
     

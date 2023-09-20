@@ -1,94 +1,93 @@
-COMMERCIAL REAL ESTATE LOAN AGREEMENT
-THIS AGREEMENT is made this 5th day of December 2023.
-BETWEEN:
-GOLDEN GATE FINANCE GROUP, a financial group duly registered and operating under the laws of the State of California, with its principal place of business located at 8080 Golden Street, San Francisco, CA 94101 (hereinafter referred to as the "Lender").
+AUTO LOAN AGREEMENT
+THIS AGREEMENT is made this 1st day of March, 2023.
 
-URBAN HORIZONS LLC, a limited liability company organized and existing under the laws of the State of Washington, with its head office located at 7070 Horizon Drive, Seattle, WA 98101 (hereinafter referred to as the "Borrower").
+BETWEEN:
+MNO Auto Lenders 589, a financial institution duly organized and existing under the laws of the state, having its principal place of business at 6433 Elm St, Springfield, USA (hereinafter referred to as the "Lender").
+
+Jordan Brown 106, an individual residing at 7452 Oak St, Springfield, USA (hereinafter referred to as the "Borrower").
 
 RECITALS:
-WHEREAS, the Borrower intends to finance the acquisition and renovation of a historic building located at 2020 Vintage Lane, Seattle, WA 98102, to be repurposed into a commercial complex;
+WHEREAS, the Borrower has requested the Lender to extend a loan to the Borrower for the purpose of financing the acquisition of a vehicle described in detail in ARTICLE 1;
 
-WHEREAS, the Lender is willing to facilitate the necessary financing to the Borrower, under the terms and conditions stipulated herein;
+WHEREAS, the Lender has agreed to extend such a loan to the Borrower on the terms and conditions set forth herein;
 
-NOW, THEREFORE, in recognition of the mutual covenants contained herein and other good and valuable consideration, the parties hereto agree as follows:
+NOW, THEREFORE, in consideration of the mutual covenants contained herein and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
 
 ARTICLE 1 – LOAN DETAILS
 1.1 Loan Amount
-
-The Lender shall lend to the Borrower, and the Borrower shall accept from the Lender, a loan in the principal amount of FORTY MILLION UNITED STATES DOLLARS (US$40,000,000) (the "Loan").
+The Lender agrees to lend to the Borrower, and the Borrower agrees to borrow from the Lender, the principal amount of TWENTY-THREE THOUSAND FIVE HUNDRED SEVEN UNITED STATES DOLLARS (US$23,507) (the "Loan").
 
 1.2 Interest Rate
-
-The Loan shall accrue interest at a fixed rate of four and a half percent (4.5%) per annum, with interest payments due semi-annually on the first days of June and December of each year.
+The Loan shall bear interest at a rate of nine point fifty-nine percent (9.59%) per annum, calculated on the basis of a 360-day year for the actual number of days elapsed.
 
 1.3 Loan Term
+The term of the Loan shall be seventy-three (73) months, commencing on the date hereof and ending on the last day of the seventy-third month thereafter, unless sooner terminated in accordance with the terms hereof.
 
-The Loan shall have a term of eighteen (18) years, commencing on the date hereof and terminating on the 5th day of December 2041.
+1.4 Down Payment
+The Borrower has made a down payment of ONE THOUSAND FOUR HUNDRED THIRTY-NINE UNITED STATES DOLLARS AND THIRTY-ONE CENTS (US$1,439.31) towards the purchase of the vehicle.
 
-1.4 Repayment
+1.5 Repayment
+The Borrower shall repay the Loan in monthly installments of principal and interest, with the first installment due on April 1, 2023, and subsequent installments due on the first day of each month thereafter.
 
-The Borrower agrees to repay the Loan in semi-annual installments of both principal and interest, with the first installment due on June 1, 2024.
+1.6 Vehicle Details
+The loan is extended for the purpose of financing the acquisition of the following vehicle:
 
+Make: Honda
+Model: Truck
+Year: 2017
+VIN: H8P2X6EZCWOPBR2DI
 ARTICLE 2 – REPRESENTATIONS AND WARRANTIES
-The Borrower hereby makes the following representations and warranties to the Lender:
+The Borrower hereby represents and warrants to the Lender as follows:
 
-2.1 Legal Status
+2.1 Legal Age
+The Borrower is of legal age to enter into binding contracts in the jurisdiction where the Borrower resides.
 
-The Borrower is a limited liability company, duly organized, validly existing, and in good standing under the laws of the State of Washington.
+2.2 Accurate Information
+All information provided by the Borrower to the Lender, including but not limited to the Borrower’s financial condition, is true, correct, and complete.
 
-2.2 Authorization
-
-The Borrower has the full power and authority to enter into this Agreement and to perform its obligations hereunder.
-
-(Additional representations and warranties to discuss the financial position, litigation, regulatory compliance, etc.)
+(Additional representations and warranties would include details regarding no conflicts, litigation, accuracy of information, etc.)
 
 ARTICLE 3 – COVENANTS
-The Borrower hereby covenants with the Lender as follows:
+The Borrower covenants and agrees with the Lender as follows:
 
-3.1 Use of Funds
+3.1 Maintenance of the Vehicle
+The Borrower shall maintain the vehicle in good working condition and shall bear all costs associated with the maintenance of the vehicle.
 
-The Borrower shall use the Loan proceeds exclusively for the purposes described in the Recitals above.
+3.2 Insurance
+The Borrower shall maintain comprehensive insurance on the vehicle at all times during the term of the loan.
 
-3.2 Maintenance of Properties
-
-The Borrower shall maintain the property securing the Loan in good condition and repair, ordinary wear and tear excepted.
-
-(Additional covenants would include insurance maintenance, financial reporting, etc.)
+(Additional affirmative and negative covenants would be detailed in this section, including financial reporting requirements, restrictions on indebtedness, etc.)
 
 ARTICLE 4 – EVENTS OF DEFAULT
-The following events shall constitute events of default under this Agreement:
+The following shall constitute events of default under this Agreement:
 
 4.1 Non-Payment
+Failure by the Borrower to pay any amount due under this Agreement within ten (10) days of the due date.
 
-Failure by the Borrower to pay any sum due under this Agreement within ten (10) days of the due date.
+4.2 Breach of Representation
+Any representation or warranty made by the Borrower herein proves to have been incorrect in any material respect when made.
 
-4.2 Material Adverse Change
-
-The occurrence of any material adverse change in the financial condition of the Borrower.
-
-(Additional events of default would involve breaches of covenants, representations, or warranties, insolvency events, etc.)
+(Additional events of default would be detailed in this section, including bankruptcy events, cross-defaults to other agreements, etc.)
 
 ARTICLE 5 – MISCELLANEOUS
-5.1 Governing Law
+5.1 Notices
+Any notice or other communication required or permitted to be given hereunder shall be in writing and shall be deemed to have been duly given when delivered in person, or sent by registered mail, to the respective parties at the addresses set forth above.
 
-This Agreement shall be governed by and construed in accordance with the laws of the State of California.
+5.2 Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of the state, without regard to conflict of laws principles.
 
-5.2 Amendments
-
-No amendment or waiver of any provision of this Agreement shall be effective unless in writing and signed by both parties.
-
-(Additional miscellaneous provisions regarding notices, severability, etc.)
+(Additional miscellaneous provisions would include details regarding amendments, waivers, severability, etc.)
 
 IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
-GOLDEN GATE FINANCE GROUP
+MNO Auto Lenders 589
 By:_________________
-Name: Laura Johnson
-Title: President
+Name: (To be filled in)
+Title: Loan Officer
 
-URBAN HORIZONS LLC
+Jordan Brown 106
 By:_________________
-Name: Peter Thompson
-Title: Managing Director
+Name: Jordan Brown 106
+Title: Borrower
 
-DISCLAIMER: THIS DOCUMENT IS A SIMULATED MOCK-UP CREATED STRICTLY FOR EDUCATIONAL AND INFORMATIONAL PURPOSES AND SHOULD NOT BE USED IN ANY REAL-WORLD LEGAL OR FINANCIAL TRANSACTIONS.
-This iteration of the mock agreement features a project revolving around the renovation of a historic building and offers different financial terms compared to previous examples. Let me know if this is in line with what you're looking for, or if there's any particular focus you'd like for the next example.
+DISCLAIMER:
+THIS DOCUMENT IS A MOCK REPRESENTATION CREATED FOR DEMONSTRATION PURPOSES ONLY. IT IS NOT INTENDED TO BE USED FOR ANY REAL LEGAL OR COMMERCIAL TRANSACTIONS.

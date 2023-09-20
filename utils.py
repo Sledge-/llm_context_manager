@@ -22,3 +22,15 @@ def parse_string_to_list(s):
     except (json.JSONDecodeError, ValueError) as e:
         # Handle incorrect input with appropriate error message
         return str(e)
+
+
+def count_words_in_values(dictionary):
+    total_words = sum(len(str(value).split()) for value in dictionary.values())
+    return total_words
+
+
+if __name__ == "__main__":
+    # Example usage:
+    my_dict = {"key1": "hello world", "key2": "Python programming is fun", "key3": "OpenAI"}
+    total_words = count_words_in_values(my_dict)
+    print(f"The total number of words in the values is: {total_words}")

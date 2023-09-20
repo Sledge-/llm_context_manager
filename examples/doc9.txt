@@ -1,93 +1,93 @@
-COMMERCIAL REAL ESTATE LOAN AGREEMENT
-THIS AGREEMENT is made this 15th day of March 2024.
-BETWEEN:
-OCEANVIEW FINANCIAL SERVICES, a financial institution duly established and operating under the laws of the State of New Jersey, having its headquarters at 4040 Coastal Road, Atlantic City, NJ 08401 (hereinafter referred to as the "Lender").
+AUTO LOAN AGREEMENT
+THIS AGREEMENT is made this 1st day of March, 2023.
 
-SKYLINE PROPERTIES INC., a corporation incorporated and functioning under the laws of the State of New York, with its registered office located at 505 Fifth Avenue, New York, NY 10017 (hereinafter referred to as the "Borrower").
+BETWEEN:
+VWX Auto Financing 411, a financial institution duly organized and existing under the laws of the state, having its principal place of business at 4296 Spruce St, Springfield, USA (hereinafter referred to as the "Lender").
+
+Taylor Green 361, an individual residing at 6120 Maple St, Springfield, USA (hereinafter referred to as the "Borrower").
 
 RECITALS:
-WHEREAS, the Borrower intends to finance the development of a multi-story commercial office space located at 9090 Broadway, New York, NY 10036;
+WHEREAS, the Borrower has requested the Lender to extend a loan to the Borrower for the purpose of financing the acquisition of a vehicle described in detail in ARTICLE 1;
 
-WHEREAS, the Lender is prepared to extend the required financing to the Borrower, pursuant to the terms and conditions detailed herein;
+WHEREAS, the Lender has agreed to extend such a loan to the Borrower on the terms and conditions set forth herein;
 
-NOW, THEREFORE, acknowledging the mutual promises contained herein and other valuable considerations, the parties agree as follows:
+NOW, THEREFORE, in consideration of the mutual covenants contained herein and other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto agree as follows:
 
 ARTICLE 1 – LOAN DETAILS
 1.1 Loan Amount
-
-The Lender agrees to lend the Borrower the principal amount of SEVENTY MILLION UNITED STATES DOLLARS (US$70,000,000) (the "Loan").
+The Lender agrees to lend to the Borrower, and the Borrower agrees to borrow from the Lender, the principal amount of THIRTY-EIGHT THOUSAND TWO HUNDRED SIXTY-SEVEN UNITED STATES DOLLARS (US$38,267) (the "Loan").
 
 1.2 Interest Rate
-
-The Loan shall incur interest at a fixed rate of five point five percent (5.5%) per annum, with interest payable quarterly.
+The Loan shall bear interest at a rate of eleven point forty-nine percent (11.49%) per annum, calculated on the basis of a 360-day year for the actual number of days elapsed.
 
 1.3 Loan Term
+The term of the Loan shall be fifty-seven (57) months, commencing on the date hereof and ending on the last day of the fifty-seventh month thereafter, unless sooner terminated in accordance with the terms hereof.
 
-The Loan term shall span fifteen (15) years, initiating from the effective date of this Agreement and concluding on the 15th day of March 2039.
+1.4 Down Payment
+The Borrower has made a down payment of TWO THOUSAND FOUR HUNDRED THIRTY UNITED STATES DOLLARS AND FORTY-THREE CENTS (US$2,430.43) towards the purchase of the vehicle.
 
-1.4 Repayment
+1.5 Repayment
+The Borrower shall repay the Loan in monthly installments of principal and interest, with the first installment due on April 1, 2023, and subsequent installments due on the first day of each month thereafter.
 
-The Borrower commits to repaying the Loan in quarterly installments of principal and interest, the first of which is due on June 15, 2024.
+1.6 Vehicle Details
+The loan is extended for the purpose of financing the acquisition of the following vehicle:
 
+Make: Toyota
+Model: Hatchback
+Year: 2022
+VIN: CD2L0BDTSV81CFP2H
 ARTICLE 2 – REPRESENTATIONS AND WARRANTIES
-The Borrower represents and warrants to the Lender the following:
+The Borrower hereby represents and warrants to the Lender as follows:
 
-2.1 Corporate Existence
+2.1 Legal Age
+The Borrower is of legal age to enter into binding contracts in the jurisdiction where the Borrower resides.
 
-The Borrower is a corporation duly incorporated, validly existing, and in good standing under the laws of the State of New York.
+2.2 Accurate Information
+All information provided by the Borrower to the Lender, including but not limited to the Borrower’s financial condition, is true, correct, and complete.
 
-2.2 Authorization
-
-The Borrower has obtained all necessary corporate authorizations to enter and perform this Agreement.
-
-(Additional representations and warranties would cover financial condition, litigation, environmental compliance, etc.)
+(Additional representations and warranties would include details regarding no conflicts, litigation, accuracy of information, etc.)
 
 ARTICLE 3 – COVENANTS
-The Borrower covenants to the Lender as follows:
+The Borrower covenants and agrees with the Lender as follows:
 
-3.1 Use of Loan Proceeds
+3.1 Maintenance of the Vehicle
+The Borrower shall maintain the vehicle in good working condition and shall bear all costs associated with the maintenance of the vehicle.
 
-The Borrower shall use the Loan proceeds exclusively for the project described in the Recitals.
+3.2 Insurance
+The Borrower shall maintain comprehensive insurance on the vehicle at all times during the term of the loan.
 
-3.2 Reporting
-
-The Borrower shall submit to the Lender quarterly financial reports, including a balance sheet and profit and loss statement.
-
-(Additional covenants would address insurance, maintenance of properties, etc.)
+(Additional affirmative and negative covenants would be detailed in this section, including financial reporting requirements, restrictions on indebtedness, etc.)
 
 ARTICLE 4 – EVENTS OF DEFAULT
-An "Event of Default" shall occur upon:
+The following shall constitute events of default under this Agreement:
 
 4.1 Non-Payment
+Failure by the Borrower to pay any amount due under this Agreement within ten (10) days of the due date.
 
-Failure of the Borrower to make any payment due under this Agreement within a grace period of thirty (30) days.
+4.2 Breach of Representation
+Any representation or warranty made by the Borrower herein proves to have been incorrect in any material respect when made.
 
-4.2 Material Misrepresentation
-
-Any representation or warranty made by the Borrower herein proves to be materially false or misleading.
-
-(Additional events of default would cover breaches of covenants, insolvency events, etc.)
+(Additional events of default would be detailed in this section, including bankruptcy events, cross-defaults to other agreements, etc.)
 
 ARTICLE 5 – MISCELLANEOUS
-5.1 Governing Law
+5.1 Notices
+Any notice or other communication required or permitted to be given hereunder shall be in writing and shall be deemed to have been duly given when delivered in person, or sent by registered mail, to the respective parties at the addresses set forth above.
 
-This Agreement shall be governed by the laws of the State of New Jersey.
+5.2 Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of the state, without regard to conflict of laws principles.
 
-5.2 Notices
+(Additional miscellaneous provisions would include details regarding amendments, waivers, severability, etc.)
 
-All notices under this Agreement shall be in writing and shall be deemed duly given when delivered to the respective addresses of the parties.
-
-(Additional provisions would cover amendments, waivers, etc.)
-
-IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above mentioned.
-OCEANVIEW FINANCIAL SERVICES
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
+VWX Auto Financing 411
 By:_________________
-Name: Ronald Garcia
-Title: Chief Executive Officer
+Name: (To be filled in)
+Title: Loan Officer
 
-SKYLINE PROPERTIES INC.
+Taylor Green 361
 By:_________________
-Name: Stephanie Wang
-Title: President
+Name: Taylor Green 361
+Title: Borrower
 
-DISCLAIMER: THIS DOCUMENT IS A FICTIONAL SAMPLE CREATED FOR EDUCATIONAL AND INFORMATIONAL PURPOSES ONLY. IT DOES NOT CONSTITUTE LEGAL ADVICE AND IS NOT INTENDED FOR ANY REAL TRANSACTION.
+DISCLAIMER:
+THIS DOCUMENT IS A MOCK REPRESENTATION CREATED FOR DEMONSTRATION PURPOSES ONLY. IT IS NOT INTENDED TO BE USED FOR ANY REAL LEGAL OR COMMERCIAL TRANSACTIONS.
