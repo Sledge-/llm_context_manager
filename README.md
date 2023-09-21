@@ -26,7 +26,6 @@ To get started with the LLMSummarizer project, you will need to have Python inst
 
 pip install -r requirements.txt
 
-
 ### Usage
 
 ## To use the LLMSummarizer tool, follow these steps:
