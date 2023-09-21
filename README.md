@@ -37,11 +37,6 @@ from llm_summarizer import LLMSummarizer
 from utils import count_words_in_values
 ```
 
-Define the LLMContextManager class and other necessary functions in your script.
-Use the if __name__ == "__main__": block to load files from a directory, print out loaded sections, get word counts, and get summarized contexts.
-Understanding the Costs
-Summarization with the tool incurs costs proportional to the number and size of input and output tokens, a detail often specified by model providers. Hence, optimizing model calls to avoid redundant text processing and manage expenses is crucial.
-
 ## Output
 Upon running the code on a document, you will receive a condensed version highlighting the key data points, facilitating a more digestible summary of legal texts.
 
